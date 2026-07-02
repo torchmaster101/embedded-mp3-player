@@ -1,5 +1,8 @@
 # Embedded MP3 Player
 
+## Demo
+https://drive.google.com/file/d/1FGJXusIxh-OV3QQROKj6QyXFdPz5HKrW/view?usp=sharing
+
 ## Overview
 
 This project is an embedded MP3 player built on an **ATmega328P** microcontroller. The system plays audio files stored on a microSD card using a serial MP3 player module. A **16×2 LCD** displays the current system state and selected track, while an **RGB LED** provides visual feedback for the player's operating mode.
